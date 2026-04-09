@@ -1,0 +1,1 @@
+from .wizardy import first_launch, create_shortcut, create_start_menu
